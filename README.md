@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏭GDT
+# 🏭DTG
 
 ### Digital Twin Gudang — Pemantauan Suhu & Asap Secara Real-Time
 
@@ -15,7 +15,7 @@
 
 ## ✨ Tentang Proyek
 
-**GDT** adalah aplikasi *digital twin* untuk gudang. Setiap zona di gudang (rak, ruang penyimpanan, area bongkar muat) punya **kembaran digital** di layar yang menampilkan kondisi aslinya: **suhu** dan **kadar asap**.
+**DTG** adalah aplikasi *digital twin* untuk gudang. Setiap zona di gudang (rak, ruang penyimpanan, area bongkar muat) punya **kembaran digital** di layar yang menampilkan kondisi aslinya: **suhu** dan **kadar asap**.
 
 Kalau ada zona yang mulai panas atau berasap, kembaran digitalnya langsung berubah warna dan sistem mencatat alarm, sehingga potensi kebakaran bisa terdeteksi lebih dini.
 
