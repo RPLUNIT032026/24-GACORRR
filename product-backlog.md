@@ -1,4 +1,4 @@
-# 📝 Product Backlog & Sprint 1 Backlog — GDT
+# 📝 Product Backlog & Sprint 1 Backlog — DTG
 
 > Daftar kebutuhan fitur (dalam bentuk *user story*) dan target pekerjaan yang diselesaikan pada Sprint 1.
 
