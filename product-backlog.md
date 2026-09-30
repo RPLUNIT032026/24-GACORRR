@@ -1,4 +1,4 @@
-# 📝 Product Backlog & Sprint 1 Backlog — GTD
+# 📝 Product Backlog & Sprint 1 Backlog — GDT
 
 > Daftar kebutuhan fitur (dalam bentuk *user story*) dan target pekerjaan yang diselesaikan pada Sprint 1.
 
@@ -40,7 +40,7 @@
 
 | ID | Tugas | Penanggung Jawab | SP | Status |
 |---|---|---|---|---|
-| PB-01 | Buat repository GitHub, README, dan struktur folder | Syaban & Arby | 2 | ✅ Selesai |
+| PB-01 | Buat repository GitHub, README, dan struktur folder | Syaban | 2 | ✅ Selesai |
 | PB-02a | Menyusun Project Charter | Syaban | 2 | 🔄 Dikerjakan |
 | PB-02b | Menghitung Function Point | Fazil | 2 | 🔄 Dikerjakan |
 | PB-02c | Menyusun Product Backlog & Sprint 1 Backlog | Arby | 1 | 🔄 Dikerjakan |
