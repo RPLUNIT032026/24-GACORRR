@@ -29,20 +29,6 @@ Kalau ada zona yang mulai panas atau berasap, kembaran digitalnya langsung berub
 | 💨 | **Monitoring Asap** | Kadar asap (ppm) tiap zona dipantau terus-menerus |
 | 🚦 | **Status Tiga Level** | Aman 🟢 · Waspada 🟡 · Bahaya 🔴 |
 | 🚨 | **Alarm Otomatis** | Setiap kondisi bahaya tercatat lengkap dengan waktu |
----
-
-## 🚦 Ambang Batas Status
-
-| Status | Suhu | Kadar Asap |
-|---|---|---|
-| 🟢 **Aman** | < 35 °C | < 300 ppm |
-| 🟡 **Waspada** | 35 – 45 °C | 300 – 600 ppm |
-| 🔴 **Bahaya** | > 45 °C | > 600 ppm |
-
-Ambang batas bisa diubah admin per zona.
-
-
-Detail lengkap ada di [System Design](docs/system-design.md).
 
 ---
 
@@ -71,7 +57,22 @@ Digital-Twin-RPL/
 │   └── ui-design.md
 └── backend/        ← API & simulator sensor
 ```
+---
 
+## 🚦 Ambang Batas Status
+
+| Status | Suhu | Kadar Asap |
+|---|---|---|
+| 🟢 **Aman** | < 35 °C | < 300 ppm |
+| 🟡 **Waspada** | 35 – 45 °C | 300 – 600 ppm |
+| 🔴 **Bahaya** | > 45 °C | > 600 ppm |
+
+Ambang batas bisa diubah admin per zona.
+
+
+Detail lengkap ada di [System Design](docs/system-design.md).
+
+---
 
 ## 🗓️ Roadmap
 
