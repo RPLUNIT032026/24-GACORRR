@@ -76,7 +76,7 @@ Digital-Twin-RPL/
 ## 🗓️ Roadmap
 
 - [x] **Sprint 1** — Perencanaan, desain, dan project setup
-- [ ] **Sprint 2** — API sensor, database, dan logika status
+- [ ] **Sprint 2** — API sensor dan logika status
 - [ ] **Sprint 3** — Dashboard denah gudang dan grafik riwayat
 - [ ] **Sprint 4** — Alarm, pengujian, dan **Product Release**
 
@@ -86,9 +86,9 @@ Digital-Twin-RPL/
 
 | Nama | Peran | Fokus Sprint 1 |
 |---|---|---|
-| **Ayam** | Anggota | Project Charter & Product Backlog |
-| **Arby** | Anggota | Project Setup & System Design |
-| **[Nama Anggota 3]** | Anggota | Function Point & Desain UI/UX |
+| **Muhammad Fazil Fayyaz (2405040** | Anggota | Project Charter & Product Backlog |
+| **Muhammad Arby (240504089)** | Anggota | Project Setup & System Design |
+| **Muhammad Rizky Syaban (240504089)** | Anggota | Function Point & Desain UI/UX |
 
 ---
 
